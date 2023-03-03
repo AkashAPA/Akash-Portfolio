@@ -4,7 +4,7 @@
 
   A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://akash-portfoli-o.netlify.app/><strong>➥ Live Demo</strong></a>
+  <a href="https://akash-portfoli-o.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
